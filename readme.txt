@@ -1,0 +1,8 @@
+・bedsore_detect_area_surveying_gui.py
+面積の計算方法を、修正した図形に外接した正方形の面積を求める方法にしてるver
+
+・bedsore_detect_area_pixel_surveying_gui.py
+面積の計算方法を、修正した図形のピクセル数を元にしているver
+
+・hsv_slider.py
+画像処理において、色の閾値を調整する時に使うスライダーツール
