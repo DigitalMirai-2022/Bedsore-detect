@@ -6,3 +6,6 @@
 
 ・hsv_slider.py
 画像処理において、色の閾値を調整する時に使うスライダーツール
+
+・exifread_measure.py
+exif読み取りコード
